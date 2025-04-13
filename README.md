@@ -40,6 +40,8 @@ Esse projeto é um trabalho acadêmico da faculdade CEUB (Centro de Ensino Unifi
    ```bash
    Set-ExecutionPolicy RemoteSigned
    ```
+   > Executar esse comando somento se houver o erro: "npm : O arquivo C:\Program Files\nodejs\npm.ps1 não pode ser carregado porque a execução de scripts foi desabilitada neste sistema."
+
 4. Inicie o projeto:
    ```bash
    npm start
