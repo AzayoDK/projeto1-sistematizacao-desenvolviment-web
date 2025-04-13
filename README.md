@@ -71,3 +71,24 @@ Esse projeto é um trabalho acadêmico da faculdade CEUB (Centro de Ensino Unifi
    npm start
    ```
 
+---
+
+## 🐋 No Docker
+
+> Este projeto React pode ser executado de forma isolada em um container Docker usando NGINX para servir os arquivos estáticos gerados pelo build.
+> 
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/AzayoDK/projeto1-sistematizacao-desenvolviment-web.git
+   ```
+2. Criar a imagem Docker:
+   ```bash
+   docker build -t projeto1 .
+   ```
+3. Rodar o container
+   ```bash
+   docker run -p 3000:80 projeto1
+   ```
+4. Entrando na aplicação:
+   Entre no seu navegador e digite [http://localhost:3000](http://localhost:3000) para acessar a aplicação em execução.
