@@ -79,6 +79,7 @@ Esse projeto é um trabalho acadêmico da faculdade CEUB (Centro de Ensino Unifi
 
 - Docker instalado na sua máquina
 
+#### 📦 Passos:
 
 1. Clone o repositório:
    ```bash
