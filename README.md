@@ -73,10 +73,12 @@ Esse projeto é um trabalho acadêmico da faculdade CEUB (Centro de Ensino Unifi
 
 ---
 
-## 🐋 No Docker
+### 🐋 No Docker
 
-> Este projeto React pode ser executado de forma isolada em um container Docker usando NGINX para servir os arquivos estáticos gerados pelo build.
-> 
+#### 🛠️ Pré-requisitos
+
+- Docker instalado na sua máquina
+
 
 1. Clone o repositório:
    ```bash
