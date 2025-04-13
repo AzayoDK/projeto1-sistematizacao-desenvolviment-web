@@ -9,7 +9,6 @@ Esse projeto é um trabalho acadêmico da faculdade CEUB (Centro de Ensino Unifi
 ## 🚀 Tecnologias utilizadas
 
 - React
-- Vite
 - Material UI (MUI)
 - JavaScript (ES6+)
 - CSS Flexbox/Grid
