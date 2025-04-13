@@ -6,12 +6,6 @@ Esse projeto é um trabalho acadêmico da faculdade CEUB (Centro de Ensino Unifi
 
 ---
 
-## 📸 Preview
-
-![preview](./public/img/clinica/clinica1.jpg)
-
----
-
 ## 🚀 Tecnologias utilizadas
 
 - React
