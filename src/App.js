@@ -1,25 +1,43 @@
-import logo from './logo.svg';
-import './App.css';
+import * as React from 'react';
+import CssBaseline from '@mui/material/CssBaseline';
+import Appbar from './components/appbar';
+import Hero from './components/hero';
+import Services from './components/service';
+import Pricing from './components/precing';
+import Team from './components/team';
+import FormsContact from './components/forms'
+import Footer from './components/footer';
+import ScrollToTopButton from './components/home';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <CssBaseline />
+      <Appbar />
+      <div id='home'>
+      <Hero />
+      </div>
+      <div>
+      <div id='services'>
+        <Services />
+      </div>
+      <div id='team'>
+        <Team />
+      </div>
+      <div id='pricing'>
+        <Pricing />
+      </div>
+      <div id='forms'>
+        <FormsContact />
+      </div>
+        <Footer />
+      </div>
+      <ScrollToTopButton />
+    </>
   );
 }
 
 export default App;
+
+// https://paletadecores.com/paleta/1b325f/9cc4e4/e9f2f9/3a89c9/f26c4f/
