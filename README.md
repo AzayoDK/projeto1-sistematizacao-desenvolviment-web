@@ -31,7 +31,7 @@ Esse projeto é um trabalho acadêmico da faculdade CEUB (Centro de Ensino Unifi
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
+   git clone https://github.com/AzayoDK/projeto1-sistematizacao-desenvolviment-web.git
    ```
 2. Instale as dependências:
    ```bash
@@ -52,7 +52,7 @@ Esse projeto é um trabalho acadêmico da faculdade CEUB (Centro de Ensino Unifi
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
+   git clone https://github.com/AzayoDK/projeto1-sistematizacao-desenvolviment-web.git
    ```
 2. Instale as dependências com permissões elevadas:
    ```bash
