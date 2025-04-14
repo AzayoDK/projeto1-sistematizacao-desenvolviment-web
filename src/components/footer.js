@@ -15,10 +15,10 @@ export default function Footer() {
     >
       <Container maxWidth="md">
         <Typography variant="body1" align="center" color="text.primary">
-          Clínica Vida – Cuidando da sua saúde com responsabilidade e carinho.
+          Clínica Vitalis – Cuidando da sua saúde com responsabilidade e carinho.
         </Typography>
         <Typography variant="body2" align="center" color="text.secondary" sx={{ mt: 1 }}>
-          © {new Date().getFullYear()} Clínica Vida. Todos os direitos reservados.
+          © {new Date().getFullYear()} Clínica Vitalis. Todos os direitos reservados.
         </Typography>
         <Typography variant="body2" align="center" color="text.secondary" sx={{ mt: 0.5 }}>
           Desenvolvido com 💙 por você!
