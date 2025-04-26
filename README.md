@@ -1,6 +1,6 @@
 # 🏥 Clínica Vitalis - Landing Page
 
-Esse projeto é um trabalho acadêmico da faculdade CEUB (Centro de Ensino Unificado de Brasília), orientado pelo professor Leonardo Rebouças. O objetivo é desenvolver uma aplicação web para uma clínica fictícia, seguindo os requisitos do Projeto 1. A aplicação consiste em uma landing page para a **Clínica Vitalis**, criada com **React** e **Material UI (MUI)**. O site possui um layout moderno, com um carrossel animado, seções de serviços, equipe, formulário de contato e navegação fluida.
+Esse projeto é um trabalho acadêmico da faculdade CEUB (Centro de Ensino Unificado de Brasília), orientado pelo professor Leonardo Reboucas De Carvalho. O objetivo é desenvolver uma aplicação web para uma clínica fictícia, seguindo os requisitos do Projeto 1. A aplicação consiste em uma landing page para a **Clínica Vitalis**, criada com **React** e **Material UI (MUI)**. O site possui um layout moderno, com um carrossel animado, seções de serviços, equipe, formulário de contato e navegação fluida.
 
 > Projeto criado para fins acadêmicos e utilizado como portfólio pessoal.
 
